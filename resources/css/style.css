@@ -45,8 +45,8 @@ a {
 }
 
 footer {
+  text-align: left;
   font-size: 11px;
   color: white;
   background-color: dimgray;
-  text-align: left;
 }
